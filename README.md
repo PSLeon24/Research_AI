@@ -18,8 +18,8 @@
   |---|---|
   |![yolov5g](https://github.com/dalabdgw/Experimental_Results/assets/135303032/8786162e-52ce-47a8-b5bf-912801c2565a)|![image](https://github.com/PSLeon24/Research_AI/assets/59058869/48994d7b-4c28-4b44-8ac3-6ffc1ca3c0e5)|
 
-- 08/21/2023 ~ 08/22/2023: I have found some gloves tracking hand to extract skeleton data. - <b><a href="PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/The%20finger%20tracking%20device.pdf">summary</a></b>
-- 08/28/2023: <b><a href="PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Data%20Capturing%20Environment.pdf">How to capture hand pose data</a></b>
+- 08/21/2023 ~ 08/22/2023: I have found some gloves tracking hand to extract skeleton data. - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/The%20finger%20tracking%20device.pdf">summary</a></b>
+- 08/28/2023: <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Data%20Capturing%20Environment.pdf">How to capture hand pose data</a></b>
 
 -------
 
@@ -30,6 +30,6 @@
 - 08/25/2023: I selected a open source named deep face for our research. And then, I made some test to check doing recognition correctly.
   - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Person%20Identification/result_test%20face%20recognition%20-%201.pdf">the result of test 1</a></b>
   - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Person%20Identification/result_test%20face%20recognition%20-%202.pdf">the result of test 2</a></b>
-  - <b><a href="github.com/PSLeon24/Research_AI/blob/main/Person%20Identification/Recognition%20Test.ipynb">test code</a></b>
+  - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Person%20Identification/Recognition%20Test.ipynb">test code</a></b>
   
   ![image](https://github.com/dalabdgw/Experimental_Results/assets/135303032/dda2c609-46ed-4dae-9fc4-db354ca1ada8)
