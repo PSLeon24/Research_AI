@@ -20,6 +20,8 @@
 
 - 08/21/2023 ~ 08/22/2023: I have found some gloves tracking hand to extract skeleton data. - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/The%20finger%20tracking%20device.pdf">summary</a></b>
 - 08/28/2023: <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Data%20Capturing%20Environment.pdf">How to capture hand pose data</a></b>
+- 08/31/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/docs/2023_08_31_3D%20hand%20pose%20estimation%20using%20ResNet.pdf">3D hand pose estimation using ResNet</a>
+- 09/11/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/docs/2023_09_11_3D%20hand%20pose%20estimation.pdf">3D hand pose estimation</a>
 
 -------
 
