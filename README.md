@@ -1,10 +1,10 @@
 # Research record - undergraduate research student
 
 ## 1. Piano Project - Yeongmin Ko
-- 07/19/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/2023_07_19_Hand-Landmark-Detection-Experiments.pdf">Hand Landmark Detection Experiment 1</a>: The accuracy comparison for the middle finger of both hands and left hand.
+- 07/19/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/docs/2023_07_19_Hand-Landmark-Detection-Experiments.pdf">Hand Landmark Detection Experiment 1</a>: The accuracy comparison for the middle finger of both hands and left hand.
 - 08/03/2023: <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Piano-Keyboard-Detection(0803)/Piano_keyboard_detection_project/C3Pap_openpose/Object_Detection_with_YOLO_v5_keyboard.ipynb">Piano Keyboard Detection using YOLOv5</a></b>
   - <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Piano-Keyboard-Detection(0803)/Piano-Keyboard-Detection(0803).pdf">read more</a>
-- 08/04/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/2023_08_04_Hand-Landmark-Detection.pdf">Hand Landmark Detection Experiment 2</a>: The accuracy comparison for the middle finger of both hands and left hand.
+- 08/04/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/docs/2023_08_04_Hand-Landmark-Detection.pdf">Hand Landmark Detection Experiment 2</a>: The accuracy comparison for the middle finger of both hands and left hand.
   - The dataset has been reinforced than the experiment conducted on July 19th.
 - 08/09/2023: <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Hand-Landmark-Detection%20-%20SSD(0809).pdf">Piano Keyboard Detection for SSD</a></b>
   - <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Keyboard_Object_Detection_Model_for_SSD.ipynb">Colab Link</a>
@@ -18,8 +18,8 @@
   |---|---|
   |![yolov5g](https://github.com/dalabdgw/Experimental_Results/assets/135303032/8786162e-52ce-47a8-b5bf-912801c2565a)|![image](https://github.com/PSLeon24/Research_AI/assets/59058869/48994d7b-4c28-4b44-8ac3-6ffc1ca3c0e5)|
 
-- 08/21/2023 ~ 08/22/2023: I have found some gloves tracking hand to extract skeleton data. - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/The%20finger%20tracking%20device.pdf">summary</a></b>
-- 08/28/2023: <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Data%20Capturing%20Environment.pdf">How to capture hand pose data</a></b>
+- 08/21/2023 ~ 08/22/2023: I have found some gloves tracking hand to extract skeleton data. - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/docs/The%20finger%20tracking%20device.pdf">summary</a></b>
+- 08/28/2023: <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/docs/Data%20Capturing%20Environment.pdf">How to capture hand pose data</a></b>
 - 08/31/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/docs/2023_08_31_3D%20hand%20pose%20estimation%20using%20ResNet.pdf">3D hand pose estimation using ResNet</a>
 - 09/11/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/docs/2023_09_11_3D%20hand%20pose%20estimation.pdf">3D hand pose estimation</a>
 
