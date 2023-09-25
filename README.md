@@ -25,6 +25,7 @@
 - 09/06/2023 ~ 09/14/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Hand%20Pose%20Estimation%20based%20ResNet-50%20with%20PyTorch/ResNet-50%20Based%20Hand%20Pose%20Estimation.ipynb">3d Hand Pose Estimation based ResNet-50 with PyTorch</a>
   - <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/Hand%20Pose%20Estimation%20based%20ResNet-50%20with%20PyTorch/docs/ResNet-50%20Based%20Hand%20Pose%20Estimation%20Implementation.pdf">read more</a>
 - 09/20/2023: <a href="https://github.com/PSLeon24/Research_AI/blob/main/Hand%20Landmark%20Detection/docs/Algorithms%20extracting%203d%20hand%20skeleton(0920).pdf">Finding out Algorithms extracting 3d hand skeleton</a>
+- 09/26/2023: <a href="https://github.com/dalabdgw">celebrate Github page</a>
 -------
 
 
