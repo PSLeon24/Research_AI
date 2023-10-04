@@ -28,7 +28,6 @@
 - 09/26/2023: <a href="https://github.com/dalabdgw">decorate Github page</a>
 -------
 
-
 ## 2. Person Identification Project - Yeongmin Ko
 - 08/23/2023: I have found some paper regarding person identification about face recognition or face verification, etc through Google Scholar and I summarized that. - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Person%20Identification/summary%20on%20Person%20Identification.pdf">summary</a></b>
 - 08/24/2023: I have found open sources regarding face recognition. - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Person%20Identification/finding%20out%20open%20sources%20about%20Person%20Identification.pdf">summary</a></b>
@@ -38,3 +37,8 @@
   - <b><a href="https://github.com/PSLeon24/Research_AI/blob/main/Person%20Identification/Recognition%20Test.ipynb">test code</a></b>
   
   ![image](https://github.com/dalabdgw/Experimental_Results/assets/135303032/dda2c609-46ed-4dae-9fc4-db354ca1ada8)
+
+-------
+
+## 3. Build a dataset of hands playing the piano
+- 10/04/2023: I have found annotation tools. <a href="https://github.com/PSLeon24/Research_AI/blob/main/Build%20a%20dataset%20of%20hands%20playing%20the%20piano/docs/2023_10_04_Build%20a%20dataset%20of%20hands%20playing%20the%20piano.pdf">read more</a>
