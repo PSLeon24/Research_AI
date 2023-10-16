@@ -43,3 +43,5 @@
 ## 3. Build a dataset of hands playing the piano
 - 10/04/2023: I have found annotation tools. <a href="https://github.com/PSLeon24/Research_AI/blob/main/Build%20a%20dataset%20of%20hands%20playing%20the%20piano/docs/2023_10_04_Build%20a%20dataset%20of%20hands%20playing%20the%20piano.pdf">read more</a>
 - 10/05/2023: I have found the way build experiment environment. <a href="https://github.com/PSLeon24/Research_AI/blob/main/Build%20a%20dataset%20of%20hands%20playing%20the%20piano/docs/2023_10_04_Build%20a%20dataset%20of%20hands%20playing%20the%20piano.pdf">read more</a>
+- 10/11/2023: I have found related papers. <a href="https://github.com/PSLeon24/Research_AI/blob/main/Build%20a%20dataset%20of%20hands%20playing%20the%20piano/docs/2023_10_12_Hand%20landmarks%20dataset.pdf">read more</a>
+- 10/16/2023: I proposed data collection environment and data preprocessing method. <a href="https://github.com/PSLeon24/Research_AI/blob/main/Build%20a%20dataset%20of%20hands%20playing%20the%20piano/docs/2023_10_16_Piano%20Performance%20Database.pdf">read more</a>
